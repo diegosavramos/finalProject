@@ -1,1 +1,26 @@
 /* CSS styles for term project by Diego Saavedra */
+body{
+    background-color: #368F8B ;
+}
+h1 {
+    color: #DEA754;
+}
+p {
+    color: #8F79CD;
+}
+/* Styling Hyperlink */
+a {
+    color: #246a73;
+}
+
+
+/*Tambo Image Formatting*/
+img {
+    border-color: black;
+    border-width: thin;
+}
+/*LinkedIn link paragraph section*/
+#liPa {
+    border-left-width: thick;
+    border-color: #246a73 ;
+}
