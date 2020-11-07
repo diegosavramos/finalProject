@@ -1,16 +1,29 @@
 /* CSS styles for term project by Diego Saavedra */
-body{
-    background-color: #368F8B ;
-}
+
+body {
+    background-color: #A08ED4;
+  }
+
+
 h1 {
-    color: #DEA754;
+    color: #440FD6;
+    background-color: #ffffff9a;
+}
+
+h2 {
+    text-align: center;
+    color: #5F30E3;
+}
+
+h3 {
+    color: #0F042B;
 }
 p {
-    color: #8F79CD;
+    color: #481BC2;
 }
 /* Styling Hyperlink */
 a {
-    color: #246a73;
+    color: #4ca8b4;
 }
 
 
@@ -18,9 +31,38 @@ a {
 img {
     border-color: black;
     border-width: thin;
+    background-position: center;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
 /*LinkedIn link paragraph section*/
 #liPa {
     border-left-width: thick;
     border-color: #246a73 ;
+}
+
+.jumbotron{
+    background-color: #4ca8b4;
+}
+
+.jumbotron-compoments {
+    background-image: url(https://wp-tid.zillowstatic.com/3/shutterstock_50097079-2ec9cc.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+  
+  }
+
+  #logo{
+    background-position: center;
+  }
+
+.rest{
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+#display-3 {
+    padding-top: 2em;
 }
